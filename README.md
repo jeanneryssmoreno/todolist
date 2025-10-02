@@ -223,16 +223,3 @@ Si eres nuevo en estas tecnologías, aquí tienes recursos útiles:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 👨‍💻 Autor
-
-Creado con ❤️ usando **Cursor AI** como asistente de desarrollo.
-
----
-
-### 🎉 ¡Disfruta organizando tus tareas!
-
-Si tienes preguntas o sugerencias, no dudes en abrir un issue o contactarme.
